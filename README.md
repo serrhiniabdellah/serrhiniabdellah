@@ -2,7 +2,7 @@
 
 I'm a passionate Full Stack Developer who loves creating robust and scalable systems. I'm currently pursuing Software Engineering and constantly expanding my technological horizons.
 ---
-##🚀 About Me
+🚀 About Me
 ---
 💻 Full Stack Developer with a problem-solving mindset
 
