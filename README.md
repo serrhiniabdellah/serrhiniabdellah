@@ -5,9 +5,13 @@ I'm a passionate Full Stack Developer who loves creating robust and scalable sys
 ##🚀 About Me
 
 💻 Full Stack Developer with a problem-solving mindset
+
 📚 Software Engineering Student
+
 🔭 Working on various development projects
+
 🌱 Continuously learning and improving my skills
+
 🎯 Philosophy: "A problem solver, not just a programmer"
 
 # 💻 Tech Stack:
