@@ -1,9 +1,9 @@
 ## Hi there, I'm SERRHINI Abdellah 👋
 
 I'm a passionate Full Stack Developer who loves creating robust and scalable systems. I'm currently pursuing Software Engineering and constantly expanding my technological horizons.
-
+---
 ##🚀 About Me
-
+---
 💻 Full Stack Developer with a problem-solving mindset
 
 📚 Software Engineering Student
