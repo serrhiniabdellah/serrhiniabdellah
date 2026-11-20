@@ -29,7 +29,12 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### GenAI & LLM
-`RAG Pipelines` · `ChromaDB` · `LLM (Mistral, HuggingFace)` · `Prompt Engineering` · `NLP / BERT Fine-tuning` · `Agents IA`
+![RAG](https://img.shields.io/badge/RAG_Pipelines-%23764ABC.svg?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-%2300C7B7.svg?style=for-the-badge&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_AI-%23FF7000.svg?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/Prompt_Engineering-%231C3C3C.svg?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP_/_BERT-%23FF6F00.svg?style=for-the-badge&logoColor=white)
+![Agents](https://img.shields.io/badge/AI_Agents-%238B5CF6.svg?style=for-the-badge&logoColor=white)
 
 #### Cloud & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,7 +60,11 @@
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 #### BI & Visualization
-`Power BI` · `Metabase` · `Matplotlib` · `Seaborn` · `Excel (Advanced)`
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23135F9B.svg?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
